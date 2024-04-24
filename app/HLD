@@ -1,0 +1,29 @@
+Requirements
+1. SignUp/ Login/ Logout
+2. Feed Screen that will display followed user's posts
+3. Search
+4. My Posts screen to create posts and see posts that I have created
+5. Profile Edit Screen and Upload Photo
+6. Detailed screen for post, including likes and comment
+
+
+Abilities
+1. Create a Post
+2. Like a Post
+3. Comment on Post
+4. Follow/Unfollow
+
+Functional Requirement
+
+
+Signup Requirements
+1. Check username is unique
+2. Create user - email formatted . pass validation
+3. Create a profile in Fire Store
+4. Retrieve user data and store it in view model
+5. In Progress flag display spinner
+6. Handle any error messages
+7. On App Startup, Check if user is loggedin.
+8. If user loggedin . move to main screen
+
+
